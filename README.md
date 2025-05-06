@@ -44,14 +44,8 @@ scikit-learn
 numpy
 ```
 
-## 🌐 Deploy on Streamlit Cloud
 
-1. Upload all files to a **public GitHub repo**
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect your repo and select `app.py` as the entry point
-4. Click **Deploy** 🎉
 
----
 
 ## ⚠️ Disclaimer
 
